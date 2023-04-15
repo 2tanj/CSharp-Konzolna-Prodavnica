@@ -1,0 +1,13 @@
+C:\Users\2Tanj\source\repos\CS322-DZ06-4550\CS322-DZ06-4550\bin\Debug\netcoreapp3.1\CS322-DZ06-4550.exe
+C:\Users\2Tanj\source\repos\CS322-DZ06-4550\CS322-DZ06-4550\bin\Debug\netcoreapp3.1\CS322-DZ06-4550.deps.json
+C:\Users\2Tanj\source\repos\CS322-DZ06-4550\CS322-DZ06-4550\bin\Debug\netcoreapp3.1\CS322-DZ06-4550.runtimeconfig.json
+C:\Users\2Tanj\source\repos\CS322-DZ06-4550\CS322-DZ06-4550\bin\Debug\netcoreapp3.1\CS322-DZ06-4550.runtimeconfig.dev.json
+C:\Users\2Tanj\source\repos\CS322-DZ06-4550\CS322-DZ06-4550\bin\Debug\netcoreapp3.1\CS322-DZ06-4550.dll
+C:\Users\2Tanj\source\repos\CS322-DZ06-4550\CS322-DZ06-4550\bin\Debug\netcoreapp3.1\CS322-DZ06-4550.pdb
+C:\Users\2Tanj\source\repos\CS322-DZ06-4550\CS322-DZ06-4550\obj\Debug\netcoreapp3.1\CS322-DZ06-4550.csprojAssemblyReference.cache
+C:\Users\2Tanj\source\repos\CS322-DZ06-4550\CS322-DZ06-4550\obj\Debug\netcoreapp3.1\CS322-DZ06-4550.AssemblyInfoInputs.cache
+C:\Users\2Tanj\source\repos\CS322-DZ06-4550\CS322-DZ06-4550\obj\Debug\netcoreapp3.1\CS322-DZ06-4550.AssemblyInfo.cs
+C:\Users\2Tanj\source\repos\CS322-DZ06-4550\CS322-DZ06-4550\obj\Debug\netcoreapp3.1\CS322-DZ06-4550.csproj.CoreCompileInputs.cache
+C:\Users\2Tanj\source\repos\CS322-DZ06-4550\CS322-DZ06-4550\obj\Debug\netcoreapp3.1\CS322-DZ06-4550.dll
+C:\Users\2Tanj\source\repos\CS322-DZ06-4550\CS322-DZ06-4550\obj\Debug\netcoreapp3.1\CS322-DZ06-4550.pdb
+C:\Users\2Tanj\source\repos\CS322-DZ06-4550\CS322-DZ06-4550\obj\Debug\netcoreapp3.1\CS322-DZ06-4550.genruntimeconfig.cache
